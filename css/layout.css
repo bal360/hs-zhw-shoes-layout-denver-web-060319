@@ -24,4 +24,33 @@
 
 /* Positioning Classes */
 
+.featured {
+  float: left;
+  width: 66%;
+  margin: 0 5px 10px 0;
+}
+
+.archive {
+  float: left;
+  width: 32%;
+  margin: 0 0 10px 10px;
+}
+
+.col-left {
+  float: left;
+  width: 32%;
+  margin: 5px 0 0 0;
+}
+
+.col-center {
+  float: left;
+  width: 32%;
+  margin: 5px 15px 0 15px;
+}
+
+.col-right {
+  float: left;
+  width: 32%;
+  margin: 5px 0 0 0;
+}
 
